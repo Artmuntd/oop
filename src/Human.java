@@ -21,7 +21,7 @@ public class Human {
        else {
            this.yearOfBirth = Math.abs(yearOfBirth);
        }
-       if(job == "" || job == null) {
+       if(job == "") {
            this.job = "Информация отсутствует";
        } else {
            this.job = job;

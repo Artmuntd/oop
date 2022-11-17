@@ -11,7 +11,7 @@ public class Main {
         allInf();
         System.out.println(" ");
         Car = new Car[5];
-        Car[0]= new Car("Lada","Grande", 2015, "Россия", "Желтый", 1.7);
+        Car[0]= new Car("","Grande", 2015, "Россия", "Желтый", 1.7);
         Car[1]= new Car("Audi","A8 50 L TDI quattro", 2020, "Германии", "черный",  3.0);
         Car[2]= new Car("BMW","Z8",  2021, " Германия", "черный", 3.0);
         Car[3]= new Car("Kia ","Sportage 4 поколение", 2018, " Южная Корея", " красны", 2.4);
