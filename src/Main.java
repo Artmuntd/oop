@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         Human = new Human[4];
-        Human[0] = new Human("Максим","Минск",35,"бренд-менеджер") ;
+        Human[0] = new Human("Максим","Минск",1986,"бренд-менеджер") ;
         Human[1] = new Human("Аня","Москва",29," методист образовательных программ") ;
         Human[2] = new Human("Катя","Каллининград",28, "продакт-менеджер") ;
         Human[3] = new Human("Артем","Москва",27,"директор по развитию бизнеса");
